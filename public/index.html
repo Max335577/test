@@ -4,13 +4,35 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <link rel="icon" href="./favicon.ico">
     <title>sheetdb</title>
   </head>
   <body>
     <noscript>
       <strong>We're sorry but sheetdb doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
     </noscript>
+    
+    <div id="root">
+      <ul>
+          <li v-for="person in people.data">
+              {{person.first_name}} {{person.last_name}} - ({{ person.id }})
+              <button v-on:click="deletePerson(person)">Delete</button>
+          </li>
+      </ul>
+
+      <input type="text" name="" v-model="firstName">
+      <input type="text" name="" v-model="lastName">
+      <button v-on:click="addPerson">Add Person</button>
+
+  </div>
+
+  <style>
+  
+  #root {
+    color: #fff;
+  }
+  </style>
+    
     <div id="app"></div>
     <!-- built files will be auto injected -->
   </body>

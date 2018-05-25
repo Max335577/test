@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "sheetdb-js": "^1.0.3",
     "vue": "^2.5.16"
   },
   "devDependencies": {
