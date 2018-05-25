@@ -13,7 +13,6 @@
         After careful observation of countries where social, behavioral, and cultural attributes are the criteria by which individual’s performance is evaluated. I wondered whether or not gender equality had an effect on how well a country’s economy is developing. Based on the mental representation of what we know and expect about girls and women, we tend to be bias in our perception of females being less intelligent, under-skilled and not being clever enough to partake in economic activities. If employers have this type of mindset, I am curious to know under what circumstances gender equality affects the development of a country’s economy.
 
         The Empirical Evidence
-
         There are numerous factors that determine the social and economic development of a nation, one of which is gender equality. It is a critical component of economic development, it is a basic right that does not need economic vindication. Gender inequality proves to be the causes of poverty in the society as a whole. Yet gender equality has broad and positive implications for social and economic development.
     </p>  
   </div>
